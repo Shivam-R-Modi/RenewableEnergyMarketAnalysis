@@ -17,11 +17,11 @@ This repository contains a comprehensive analysis of global renewable energy ado
   4. Data Visualization: Creation of interactive visualizations of energy trends and forecasts
 
 ## Repository Structure
-  --> /data: Raw and processed datasets
-  --> /notebooks: Jupyter notebooks containing the analysis
-  --> /visualizations: Generated charts and figures
-  --> /reports: Final briefing documents for stakeholders
-  --> /models: Serialized machine learning models for forecasting
+    --> /data: Raw and processed datasets
+    --> /notebooks: Jupyter notebooks containing the analysis
+    --> /visualizations: Generated charts and figures
+    --> /reports: Final briefing documents for stakeholders
+    --> /models: Serialized machine learning models for forecasting
 
 ## Getting Started
 
