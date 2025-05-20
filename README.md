@@ -42,7 +42,7 @@ jupyter notebook
   4 Matplotlib & Seaborn for visualization
 
 ## Future Work
-Integration of additional renewable sources (hydro, geothermal, bioenergy)
-Regional analysis within countries to identify local trends
-Enhanced blockchain implementation models with smart contract examples
-Real-time data pipeline for continuous monitoring of renewable growth
+  * Integration of additional renewable sources (hydro, geothermal, bioenergy)
+  * Regional analysis within countries to identify local trends
+  * Enhanced blockchain implementation models with smart contract examples
+  * Real-time data pipeline for continuous monitoring of renewable growth
